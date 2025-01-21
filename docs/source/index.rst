@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+CEO Nato Phan – Người Dẫn Đầu Nhacaiuytin Uy Tín và Đổi Mới
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Nato Phan <https://nhacaiuytin.ngo/author/natophan/>`_ là một doanh nhân tài năng, hiện lãnh đạo Nhacaiuytin – nền tảng chơi game trực tuyến hàng đầu Việt Nam. Với tầm nhìn chiến lược và kinh nghiệm sâu rộng, ông đã đưa Nhacaiuytin trở thành biểu tượng của uy tín và đổi mới, nổi bật với các sản phẩm đa dạng, hệ thống giao dịch an toàn, dịch vụ tận tâm và nhiều chương trình khuyến mãi hấp dẫn, khẳng định vị thế vững chắc trên thị trường.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 277A Đ. Đặng Nguyên Cẩn, Phường 14, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0766415046. 
 
-Contents
---------
+Email: contact@nhacaiuytin.ngo. 
 
-.. toctree::
+Website: https://nhacaiuytin.ngo/author/natophan/ 
 
-   usage
-   api
+#ceonatophan #ceonatophan #ceonatophan_nhacaiuytin
